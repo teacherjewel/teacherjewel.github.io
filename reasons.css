@@ -1,0 +1,35 @@
+body {
+  background-color: rgb(253,253,150);
+  color:cadetblue;
+}
+div {
+  display:inline-block;
+}
+.leftdiv {
+  position: absolute;
+  left: 20px;
+  top: 400px;
+}
+.rightdiv {
+  position: absolute;
+  left: 600px;
+  top: 410px;
+}
+img {
+float: left;
+}
+.licensediv {
+position: absolute;
+  top: 700px;
+  left: 0px;
+}
+p {
+  position: relative;
+  top: 70px;
+  left: 50px;
+  width: 1000px;
+  color: rgb(0,0,128)
+}
+h1 {
+font-weight: bold;
+}
