@@ -1,0 +1,16 @@
+body {
+  background: rgb(253,253,150);
+  color: cadetblue;
+}
+p {
+  color: rgb(0,0,128);
+}
+h1 {
+  font-weight: bold;
+}
+ul {
+font-weight: bold;
+}
+p {
+width: 500px;
+}
