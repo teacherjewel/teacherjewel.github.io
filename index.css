@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(253,253,150);
+color:cadetblue;
+}
+img {
+float:left;
+}
+p {
+  position: absolute;
+  top: 130px;
+  left: 230px;
+color: rgb(0,0,128);
+  width: 200px;
+}
+div {
+position: absolute;
+  top: 400px;
+}
+h1 {
+font-weight: bold;
+}
