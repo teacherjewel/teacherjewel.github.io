@@ -1,6 +1,6 @@
 body {
   background: rgb(253,253,150);
-  color: cadetblue;
+  color: rgb(0,255,239);
 }
 p {
   color: rgb(0,0,128);
@@ -13,4 +13,8 @@ font-weight: bold;
 }
 p {
 width: 500px;
+}
+.attributtion {
+color:black;
+  font-size:12px;
 }
