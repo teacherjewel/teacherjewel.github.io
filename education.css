@@ -2,17 +2,15 @@ body {
   background: rgb(255,255,51);
   color: rgb(0,255,239);
 }
-p {
-  color: rgb(0,0,128);
-}
 h1 {
   font-weight: bold;
 }
 ul {
-font-weight: bold;
+  font-weight: bold;
 }
 p {
-width: 500px;
+  color:black;
+  width: 500px;
 }
 .attribution {
   color:black;
