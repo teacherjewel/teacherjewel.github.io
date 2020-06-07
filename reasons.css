@@ -16,6 +16,8 @@ div {
   top: 410px;
 }
 img {
+  position: absolute;
+  top: 250px;
   float: left;
 }
 .licensediv {
