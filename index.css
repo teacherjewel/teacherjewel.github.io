@@ -14,7 +14,7 @@ p {
 }
 div {
 position: absolute;
-  top: 400px;
+  bottom: 0px;
 }
 h1 {
 font-weight: bold;
