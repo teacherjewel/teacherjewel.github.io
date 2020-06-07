@@ -36,7 +36,4 @@ font-weight: bold;
 .attribute {
   color: black;
   font-size:12px;
-  position: absolute;
-  left: 50px;
-  top:60px;
 }
