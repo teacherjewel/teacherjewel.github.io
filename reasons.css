@@ -20,7 +20,7 @@ img {
 }
 .licensediv {
   position: absolute;
-  top: 720px;
+  bottom: 0px;
   left: 0px;
 }
 p {
