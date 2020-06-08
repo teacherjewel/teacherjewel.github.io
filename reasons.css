@@ -13,14 +13,14 @@ div {
 .rightdiv {
   position: absolute;
   left: 600px;
-  top: 410px;
+  top: 430px;
 }
 img {
   float: left;
 }
 .licensediv {
   position: absolute;
-  top: 700px;
+  top: 720px;
   left: 0px;
 }
 p {
