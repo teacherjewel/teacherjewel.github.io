@@ -8,12 +8,12 @@ div {
 .leftdiv {
   position: absolute;
   left: 20px;
-  top: 400px;
+  top: 450px;
 }
 .rightdiv {
   position: absolute;
   left: 600px;
-  top: 430px;
+  top: 480px;
 }
 img {
   float: left;
