@@ -38,7 +38,7 @@ h1 {
   font-size:12px;
   position: absolute;
   left: 10px;
-  top: 450px;
+  top: 460px;
 }
 ul {
   list-style-type: none;
@@ -49,6 +49,7 @@ ul {
 }
 .reasons {
   list-style: initial;
+  float: none;
 }
 li {
   float: left;
