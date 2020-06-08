@@ -36,9 +36,8 @@ h1 {
 .attribute {
   color: black;
   font-size:12px;
-  position: absolute;
-  bottom: 0px;
-  right: 0px;
+  position: relative;
+  left: 20px;
 }
 ul {
   list-style-type: none;
