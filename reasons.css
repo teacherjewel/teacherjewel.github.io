@@ -8,7 +8,7 @@ div {
 .leftdiv {
   position: absolute;
   left: 20px;
-  top: 450px;
+  top: 480px;
 }
 .rightdiv {
   position: absolute;
@@ -38,7 +38,7 @@ h1 {
   font-size:12px;
   position: absolute;
   left: 10px;
-  top: 430px;
+  top: 450px;
 }
 ul {
   list-style-type: none;
